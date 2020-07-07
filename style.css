@@ -3,13 +3,13 @@
    
 }
 .navbar{
-    
+    box-shadow: 5px 5px 10px rgb(136, 79, 79);
 }
 .row{
     padding-top: 70px;
 }
 .navbar-brand img{
-    height: 50px;
+    height: 40px;
 }
 .position{
     padding-top: 0px;
@@ -40,4 +40,61 @@
     border-radius: 10px;
     box-shadow: 2px 2px 15px gray;
     padding-top: 30px;
+}
+.footer{
+    margin-top: 180px;
+}
+.container h2{
+    text-align: center;
+}
+.line-design{
+    height: 7px;
+    width: 100px;
+    background-color: orange;
+    border-radius: 5px;
+    margin: 0 auto;
+    
+}
+.nav-link{
+    color: black;
+}
+.pale-order-size{
+    height: 400px;
+    width: 600px;
+}
+.image-resize img{
+    width: 600px ;
+}
+.resize-box{
+    height: 150px;
+    width: 160px;
+    box-shadow: 5px 5px 10px gray;
+}
+.resize-box img{
+    height: 80px;
+    width: 70px;
+    
+    
+}
+.resize-box2{
+    height: 150px;
+    width: 160px;
+    box-shadow: 5px 5px 10px gray;
+}
+.resize-box2 img{
+    height: 80px;
+    width: 70px;
+}
+.resize-box3{
+    height: 150px;
+    width: 160px;
+    box-shadow: 5px 5px 10px gray;
+}
+.resize-box3 img{
+    height: 80px;
+    width: 70px;
+}
+.dropdown-toggle{
+    border: none;
+    color: black;
 }
