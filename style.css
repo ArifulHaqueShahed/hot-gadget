@@ -1,6 +1,43 @@
 .container{
-
+   margin-bottom: 100px;
+   
 }
-.navbar-style{{
-    height: 30px;
-}}
+.navbar{
+    
+}
+.row{
+    padding-top: 70px;
+}
+.navbar-brand img{
+    height: 50px;
+}
+.position{
+    padding-top: 0px;
+}
+
+.btn-design{
+    background-color: black;
+    color: white;
+    font-weight: 400;
+    font-size: 20px;
+    height: 45px;
+    width: 150px;
+    border-radius: 10px;
+}
+.text-design{
+    text-align: right;
+    color: orange;
+}
+.card-title{
+    font-weight: 700;
+}
+.card-text{
+    font-size: 15px;
+    font-weight: 300;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 2px 2px 15px gray;
+    padding-top: 30px;
+}
